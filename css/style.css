@@ -1,0 +1,176 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+p {
+	font-size: 13px;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.header {
+	width: 100%;
+	border-bottom: 1px solid #ccc;
+}
+.logo {
+	width: 20%;
+	float: left;
+}
+.logo img {
+	width: 150px;
+}
+.menu {
+	width: 76%;
+	text-align: right;
+	float: right;
+	padding-right: 40px;
+}
+.menu ul li {
+	display: inline-block;
+	list-style: none;
+}
+.menu ul li a {
+	text-decoration: none;
+	color: #4D376C;
+	padding-right: 25px;
+	font-size: 15px;
+	line-height: 50px;
+}
+.intro {
+	width: 100%;
+	text-align: center;
+}
+.intro-top {
+	margin-top: 50px;
+}
+.intro-top h1 {
+	font-size: 40px;
+}
+.intro-top h1 span {
+	color: #008AFF;
+}
+.intro-top p {
+	margin-top: 10px;
+}
+.intro-bottom {
+	margin-top: 25px;
+}
+.intro-bottom img {
+	width: 510px;
+}
+.content {
+	margin-top: 60px;
+}
+.content-top {
+	width: 100%
+}
+.content-top-left {
+	width: 50%;
+	text-align: right;
+	float: left;
+}
+.content-top-left h1 {
+	color: #F15767;
+	font-size: 40px;
+}
+.content-top-left p{}
+.content-top-right {
+	width: 48%;
+	float: right;
+	padding-left: 20px;
+}
+.content-top-right h1 {
+	color: #0F2656;
+	font-size: 36px;
+} 
+.gallery {
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+}
+.image-1 {
+	width: 30.333%;
+	float: left;
+	text-align: left;
+	background: #FDEBED;
+	height: 400px;
+	margin-right: 20px;
+}
+.image-1 img{
+	width: 100%;
+}
+.image-1 h2 {
+	padding: 10px 30px 10px 10px;
+}
+.image-1 p {
+	padding: 10px 30px 10px 10px;
+}
+.image-2 {
+	width: 30.3333%;
+	float: left;
+	text-align: left;
+	background: #EBF9F4;
+	height: 400px;
+	margin-right: 20px;
+}
+.image-2 img{
+	width: 100%;
+}
+.image-2 h2 {
+	padding: 10px 30px 10px 10px;
+}
+.image-2 p {
+	padding: 10px 30px 10px 10px;
+}
+.image-3 {
+	width: 30.3333%;
+	float: left;
+	text-align: left;
+	background: #FFF7E8;
+	height: 400px;
+	margin-right: 20px;
+}
+.image-3 img{
+	width: 100%;
+}
+.image-3 h2 {
+	padding: 10px 30px 10px 10px;
+}
+.image-3 p {
+	padding: 10px 30px 10px 10px;
+}
+.footer {
+	background: #008AFF;
+	margin-top: 50px;
+}
+.nav {
+	float: left;
+	width: 32%;
+	text-align: right;
+	padding: 20px 0px;
+}
+.nav ul{}
+.nav ul li {
+	list-style: none;
+}
+.nav ul li a{}
+.nav ul li a i {
+	color: #75CEFF;
+}
+.copyright {
+	float: right;
+	width: 68%;
+	padding: 20px 0px;
+}
+.copyright p {
+	color: #75CEFF;
+	padding-left: 5px;
+}
+.copyright p span{
+	color: #fff
+}
